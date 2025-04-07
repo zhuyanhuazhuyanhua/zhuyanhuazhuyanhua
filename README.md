@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">BUPT 信息与通信工程英才班 朱衍华</p>
+<p align="left">BUPT 信息与通信工程英才班 朱华</p>
 
 ###
 
