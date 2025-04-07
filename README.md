@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning golang/cpp/java/python<br> 👋MySQL/redis/Nginx/rabbitMQ/Kafka/docker/k8s<br> ✨django/Gin/Springboot框架<br> ✨langchain/langgraph/neo4j/neo4j aura<br>🎯 Goals: bytedance/Ali/Tencent</p>
+<p align="left">✨ Creating bugs since 2023,came to BUPT since 2023<br>📚 I'm currently learning golang/cpp/java/python <br> 👋中间件：MySQL/redis/Nginx/rabbitMQ/Kafka/docker/k8s<br> ✨django/Gin/Springboot框架<br> ✨大模型应用开发langchain/langgraph/neo4j/neo4j aura<br>🎯 Goals: bytedance/Ali/Tencent</p>
 
 ###
 
