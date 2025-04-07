@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning golang/cpp/java/python MySQL/redis/Nginx/rabbitMQ/Kafka django/Gin/Springboot langchain/langgraph<br>🎯 Goals: bytedance</p>
+<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning golang/cpp/java/python<br> MySQL/redis/Nginx/rabbitMQ/Kafka<br> django/Gin/Springboot langchain/langgraph<br>🎯 Goals: bytedance</p>
 
 ###
 
