@@ -10,7 +10,21 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2023,came to BUPT since 2023<br>📚 I'm currently learning golang/cpp/java/python 长期在leetcode/acwing/牛客网站刷题 假期保持每天三道<br> 👋中间件：MySQL/redis/Nginx/rabbitMQ/Kafka/docker/k8s<br> ✨擅长django/Gin/Springboot框架<br> 😁大模型应用开发：langchain/langgraph/neo4j/neo4j aura<br>🎯 Goals: bytedance/Ali/Tencent</p>
+<p align="left">✨ Creating bugs since 2023,came to BUPT since 2023<br>📚 I'm currently learning golang/cpp/java/python 长期在leetcode/acwing/牛客网站刷题 假期保持每天三道<br> 👋中间件：MySQL/redis/Nginx/rabbitMQ/Kafka/docker/k8s 最高十万并发👍<br> ✨擅长django/Gin/Springboot框架 <br> 😁大模型应用开发：langchain/langgraph/neo4j/neo4j aura<br>🎯 Goals: bytedance/Ali/Tencent 大模型应用开发岗位/后端开发岗位</p>
+
+###
+
+<h2 align="left">实习经历</h2>
+
+
+###
+<h3 align="left">绘感科技公司 2024.8~2025.1 https://winihelper.com</h3>
+<p align="left">大模型应用开发岗：<br>🎶基于multi-agent框架设计论文写作agent<br>😂使用mermaid+LLM逻辑实现长文本论文语义提取并配图</p>
+
+###
+###
+<h3 align="left">北京大学教育科学实验室 2025.1~2025.3 http://www.nhegpt.cn</h3>
+<p align="left">后端开发岗+大模型应用开发岗：<br>😁MySQL+redis+Nginx实现十万并发<br>🙌neo4j aura计算学科知识点的相关性<br>❤️edge impulser训练情绪识别模型部署到openmv上，使用esp8266将数据上传到onenet平台<br>😘百度文心平台agent，实现RAG+数学模型自主计算</p>
 
 ###
 
