@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2023,came to BUPT since 2023<br>📚 I'm currently learning golang/cpp/java/python 长期在leetcode/acwing/牛客网站刷题 假期保持每天三道<br> 👋中间件：MySQL/redis/Nginx/rabbitMQ/Kafka/docker/k8s 最高十万并发👍<br> ✨擅长django/Gin/Springboot框架 <br> 😁大模型应用开发：langchain/langgraph/neo4j/neo4j aura<br>🎯 Goals: bytedance/Ali/Tencent 大模型应用开发岗位/后端开发岗位</p>
+<p align="left">✨ Creating bugs since 2023,came to BUPT since 2023<br>📚 I'm currently learning golang/cpp/java/python 长期在leetcode/acwing/牛客网站刷题 假期保持每天三道<br> 👋中间件：MySQL/redis/Nginx/rabbitMQ/Kafka/docker/k8s 最高十万并发👍<br> ✨擅长django/Gin/Springboot框架 <br> 😁大模型应用开发：langchain/langgraph/neo4j/neo4j aura<br>🌭docker/k8s/容器化/分布式/云原生/Serverless<br>🎯 Goals: bytedance/Ali/Tencent 大模型应用开发岗位/后端开发岗位</p>
 
 ###
 
