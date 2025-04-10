@@ -110,7 +110,11 @@
   <img alt-"html5" src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="100" title="html">
   <img alt="css" src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="100" title="css">
 </div>
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=zhuyanhuazhuyanhua&theme=xcode&bg_color=FF000000&hide_border=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=zhuyanhuazhuyanhua&theme=xcode&bg_color=FF000000&color=000000&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zhuyanhuazhuyanhua&theme=xcode&bg_color=FF000000&hide_border=true" />
+  </picture>
 
 ###
 <img src="https://raw.githubusercontent.com/zhuyanhuazhuyanhua/zhuyanhuazhuyanhua/output/snake.svg" alt="Snake animation" />
