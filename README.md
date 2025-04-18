@@ -4,7 +4,7 @@
     <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/buptsdz/buptsdz/assets/images/developer.svg" height="225px" />
     <img src="https://cdn.jsdelivr.net/gh/buptsdz/buptsdz/assets/images/coding.gif" />
   </picture>
-<h1 align="left">Hey 👋 What's up? welcome</h1>
+<h1 align="left">Hey 👋 What's up? welcome🙌</h1>
 
 ###
 
