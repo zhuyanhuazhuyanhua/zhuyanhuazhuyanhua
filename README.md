@@ -33,8 +33,18 @@
 <p align="left">后端开发岗+大模型应用开发岗：<br>😁MySQL+redis+Nginx实现十万并发<br>🙌neo4j aura计算学科知识点的相关性<br>❤️edge impulser训练情绪识别模型部署到openmv上，使用esp8266将数据上传到onenet平台<br>😘百度文心平台agent，实现RAG+数学模型自主计算</p>
 
 ###
-<h3 align="left">中国航天科技集团第五研究院 2025.4~ </h3>
+<h3 align="left">中国航天科技集团第五研究院 2025.4 </h3>
 <p align="left">大模型应用开发岗：<br>🌭langchain+langgraph实现应用开发<br>🙂lightrag自动提取网络开源信息，构建态势知识图谱</p>
+
+###
+###
+
+<h2 align="left">项目经历</h2>
+
+###
+###
+<h3 align="left">昭析-可视化大模型平台 </h3>
+<p align="left">🥰Springboot3/Gin+MySQL+redis+MongoDB+Minio+Langchain4j+RabbitMQ+Lombok+Sa-token<br></p>
 
 ###
 ###
