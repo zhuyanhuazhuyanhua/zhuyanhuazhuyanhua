@@ -44,7 +44,7 @@
 ###
 ###
 <h3 align="left">昭析-可视化大模型平台 drawsee.cn</h3>
-<p align="left">🥰Springboot3/Gin+MySQL+redis+MongoDB+Minio+Langchain4j+RabbitMQ+Lombok+Sa-token<br></p>
+<p align="left">🥰Springboot3/Gin+MySQL+redis+MongoDB+Minio+Langchain4j+RabbitMQ+Lombok+Sa-token<br>A revolutionary AI conversation platform that visualizes complex thinking through tree structures and canvas views, making AI communication like drawing knowledge maps on a thinking canvas.<br></p>
 
 ###
 ###
