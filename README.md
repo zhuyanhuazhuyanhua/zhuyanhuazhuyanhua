@@ -43,7 +43,7 @@
 
 ###
 ###
-<h3 align="left">昭析-可视化大模型平台 </h3>
+<h3 align="left">昭析-可视化大模型平台 drawsee.cn</h3>
 <p align="left">🥰Springboot3/Gin+MySQL+redis+MongoDB+Minio+Langchain4j+RabbitMQ+Lombok+Sa-token<br></p>
 
 ###
