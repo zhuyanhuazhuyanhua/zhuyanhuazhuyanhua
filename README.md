@@ -11,7 +11,7 @@
 <h3 align="left">武汉金银湖实验室 2025.9 
   <a href="https://github.com/hust-open-atom-club/OpenSift">https://github.com/hust-open-atom-club/OpenSift</a>
 </h3>
-<p align="left">后端开发岗：<br>开发DAG驱动的调度引擎以避免依赖混乱 <br> 缓存表+临时表  最小化切换时间  </p>
+<p align="left">后端开发岗：<br>开发DAG驱动的调度引擎以避免依赖混乱 <br> 缓存表+临时表  最小化切换时间 <br> OAuth实现低成本高安全鉴权 </p>
 
 ###
 <h3 align="left">京东 2025.11 
