@@ -8,11 +8,15 @@
 
 ###
 
-<h3 align="left">武汉金银湖实验室 2025.9 [https://github.com/hust-open-atom-club/OpenSift](https://github.com/hust-open-atom-club/OpenSift) </h3>
+<h3 align="left">武汉金银湖实验室 2025.9 
+  <a href="https://github.com/hust-open-atom-club/OpenSift">https://github.com/hust-open-atom-club/OpenSift</a>
+</h3>
 <p align="left">后端开发岗：<br>开发DAG驱动的调度引擎以避免依赖混乱 <br> 缓存表+临时表  最小化切换时间  </p>
 
 ###
-<h3 align="left">京东 2025.11 [https://github.com/jd-opensource/OxyGent](https://github.com/jd-opensource/OxyGent) </h3>
+<h3 align="left">京东 2025.11 
+  <a href="https://github.com/jd-opensource/OxyGent">https://github.com/jd-opensource/OxyGent</a> 
+</h3>
 <p align="left">后端开发岗：<br>开发OxyGent多智能体框架：实现服务端动态适应，客户端指数退避重试的SSE协议；开发懒加载，优雅退出的线程池机制以异步化tool<br> redis Lua实现固定窗口，PETA限流；10kQPS稳定限流到3kQPS</p>
 
 ###
@@ -24,7 +28,9 @@
 ###
 
 ###
-<h3 align="left">昭析-可视化大模型平台 [https//:drawsee.cn](http://drawsee.cn/blank) </h3>
+<h3 align="left">昭析-可视化大模型平台
+  <a href="http://drawsee.cn">http://drawsee.cn</a>
+</h3>
 <p align="left">Springboot3/Gin+MySQL+redis+MongoDB+Minio+Langchain4j+RabbitMQ+Lombok+Sa-token<br>A revolutionary AI conversation platform that visualizes complex thinking through tree structures and canvas views, making AI communication like drawing knowledge maps on a thinking canvas.<br></p>
 
 ###
