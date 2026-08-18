@@ -8,16 +8,23 @@
 
 ###
 
-<h3 align="left">武汉金银湖实验室 2025.9 
+<h3 align="left">武汉金银湖实验室
   <a href="https://github.com/hust-open-atom-club/OpenSift">https://github.com/hust-open-atom-club/OpenSift</a>
 </h3>
 <p align="left">后端开发岗：<br>开发DAG驱动，集成钩子函数的工作流调度引擎以避免依赖混乱，实现按序编排 <br> 视图+缓存表+临时表  用户无感刷新，最小化切换时间 <br> OAuth+JWT 实现校验认证与控制授权，低成本高安全 </p>
 
 ###
-<h3 align="left">京东 2025.11 
+<h3 align="left">京东
   <a href="https://github.com/jd-opensource/OxyGent">https://github.com/jd-opensource/OxyGent</a> 
 </h3>
 <p align="left">后端开发岗：<br>开发OxyGent多智能体框架：实现服务端动态适应，客户端指数退避重试的SSE协议；开发懒加载，优雅退出的线程池机制以异步化tool<br> </p>
+
+###
+
+###
+<h3 align="left">美团
+</h3>
+<p align="left">后端开发岗：<br>Kubernetes集群管理平台和Operator管理平台优化<br> </p>
 
 ###
 
