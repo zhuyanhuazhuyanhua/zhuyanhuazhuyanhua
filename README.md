@@ -17,21 +17,10 @@
 <h3 align="left">京东 2025.11 
   <a href="https://github.com/jd-opensource/OxyGent">https://github.com/jd-opensource/OxyGent</a> 
 </h3>
-<p align="left">后端开发岗：<br>开发OxyGent多智能体框架：实现服务端动态适应，客户端指数退避重试的SSE协议；开发懒加载，优雅退出的线程池机制以异步化tool<br> redis Lua实现固定窗口，PETA限流；10kQPS稳定限流到3kQPS</p>
+<p align="left">后端开发岗：<br>开发OxyGent多智能体框架：实现服务端动态适应，客户端指数退避重试的SSE协议；开发懒加载，优雅退出的线程池机制以异步化tool<br> </p>
 
 ###
 
-###
-
-<h2 align="left">项目经历</h2>
-
-###
-
-###
-<h3 align="left">昭析-可视化大模型平台
-  <a href="http://drawsee.cn">http://drawsee.cn</a>
-</h3>
-<p align="left">Springboot3/Gin+MySQL+redis+MongoDB+Minio+Langchain4j+RabbitMQ+Lombok+Sa-token<br>A revolutionary AI conversation platform that visualizes complex thinking through tree structures and canvas views, making AI communication like drawing knowledge maps on a thinking canvas.<br></p>
 
 ###
 <picture>
